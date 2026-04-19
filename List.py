@@ -8,7 +8,6 @@ print(lst[0])
 print(lst[-2])
 
 
-
 marks = []
 marks.append(78)
 print(marks)
