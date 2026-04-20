@@ -4,5 +4,3 @@ print (n)
 x = n + 10
 print (x)
 
-
-
