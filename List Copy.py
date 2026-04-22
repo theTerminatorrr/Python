@@ -11,7 +11,6 @@ list3 = list1.copy()
 list3.pop()
 print( list1, list2, list3 )
 
-
 # mutable - list, string, dictionary
 # immutable - int, float, tuple
 a = 'AI Lav is vest'
