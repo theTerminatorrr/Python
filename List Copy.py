@@ -7,8 +7,6 @@ print ( list2 )
 list2.append ( 100 )
 print( list1, list2 )
 
-
-
 list3 = list1.copy()
 list3.pop()
 print( list1, list2, list3 )
