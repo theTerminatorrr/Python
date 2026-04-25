@@ -21,3 +21,4 @@ print ( middle )
 
 middle = squared [ len(squared)//2: ]
 print ( middle )
+
