@@ -16,9 +16,11 @@ print ( even )
 ind = len(squared)//2
 middle = squared [ ind : ind+3 : 2 ]
 print ( middle )
+
 middle = squared [ len(squared)//2: ]
 print ( middle )
 
 squared = squared [  : : -1 ]
 
 print (squared)
+
